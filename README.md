@@ -1,2 +1,4 @@
 # HESA-Course-Enrolments
-Two dashboards: university performance vs the sector + 'winners &amp; losers' in higher education. 
+Two dashboards:
+1. University course performance vs the sector (with 'course chooser')
+2. Winners &amp; losers in higher education at institution, subject and course levels. 
